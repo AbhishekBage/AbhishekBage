@@ -29,8 +29,8 @@
 <a href="https://twitter.com/AbhishekBage1">
   <img align="left" alt="Abhishek Bage | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saurabh-gupta-1021a31ab/">
+<a href="https://www.linkedin.com/in/abhishek-bage-555b8a1a0/">
   <img align="left" alt="Abhishek Bage | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=saurabh-38.AbhishekBage)
+![](https://visitor-badge.glitch.me/badge?page_id=AbhishekBage)
