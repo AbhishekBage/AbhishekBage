@@ -1,7 +1,7 @@
 ### **Hey there, I'm Abhishek Bage** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### 👨🏻‍💻 About Me
-🎓 I'm an Information Technology Undergraduate at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).\
+🎓 I'm an Information Technology Final Year Student at Motilal Nehru National Institute of Technology, Allahabad (MNNIT).\
 🌱 I like solving  problem of Data structure and Algorithm.\
 ✉️ You can reach out to me via email at abhishekbage147@gmail.com.
 
